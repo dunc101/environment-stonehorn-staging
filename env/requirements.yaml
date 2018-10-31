@@ -10,3 +10,6 @@ dependencies:
 - name: jenkinsx-demo2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: jenkinsx-demo3
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
